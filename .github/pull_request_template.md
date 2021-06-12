@@ -1,8 +1,8 @@
-###Changes 
+### Changes 
 -description of the changes made
 
-###Jira TNs
+### Jira TNs
 [Example](www.google.com)
 
-###Screenshots
+### Screenshots
 Format: ![Alt Text](url)
