@@ -5,4 +5,4 @@
 [Example](www.google.com)
 
 ### Screenshots
-Format: ![Alt Text](url)
+![Alt Text](url)
